@@ -1,0 +1,3 @@
+- [ ] Jugar con los amigos
+- [ ] Ir al cine
+- [ ] Estudiar
