@@ -1,3 +1,1 @@
-#manex.
-#agirre 
-#oskotz
+# manex
