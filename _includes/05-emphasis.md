@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Se crear listas*
+_y escribir en cursiva_
+
+**también se escribir en negrita**
+__de las 2 formas__
+
+_También **puedo** combinarlos_
